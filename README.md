@@ -1,5 +1,5 @@
 # MVSLab-IndoorCooperativePerception
-Official Repo of ITSC2024: Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach
+Official Repo of ITSC2024: "Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach" Authored by, Minghao Ning, Yaodong Cui, Yufeng Yang, Shucheng Huang, Zhenan Liu, Ahmad Reza Alghooneh, Ehsan Hashemi and Amir Khajepour. 
 
 For questions please contact Minghao Ning, minghao.ning@uwaterloo.ca.
 
