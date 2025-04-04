@@ -36,10 +36,14 @@ The dataset is labeled with CVAT, the labels are oriented bounding boxes in the 
 If you find this work useful, please consider citing:
 ```
 @inproceedings{ning2024enhancing,
-  title={Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach},
   author={Ning, Minghao and Cui, Yaodong and Yang, Yufeng and Huang, Shucheng and Liu, Zhenan and Alghooneh, Ahmad Reza and Hashemi, Ehsan and Khajepour, Amir},
-  booktitle={2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)},
+  booktitle={2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)}, 
+  title={Enhancing Indoor Mobility with Connected Sensor Nodes: A Real-Time, Delay-Aware Cooperative Perception Approach}, 
   year={2024},
-  organization={IEEE}
+  volume={},
+  number={},
+  pages={1139-1144},
+  keywords={Pedestrians;Laser radar;Accuracy;Multimodal sensors;Transportation;Cameras;Robustness;Real-time systems;Delays;Synchronization},
+  doi={10.1109/ITSC58415.2024.10919722}}
 }
 ```
