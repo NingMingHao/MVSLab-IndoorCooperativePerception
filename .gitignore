@@ -1,0 +1,10 @@
+labeling/transformation_files/
+
+# Ignore everything inside pointcloudTF
+labeling/pointcloudTF/*
+
+# (Optionally) unignore the directory itself
+!labeling/pointcloudTF/
+
+# But track this specific file
+!labeling/pointcloudTF/test_osm_to_heightmap_and_bev_pc.py
